@@ -1,19 +1,20 @@
 # Hi, I'm Turan
 
-### Backend Developer
+### Backend Developer | Motion Designer
 
-I build backend applications and APIs with **C#** and **ASP.NET Core**. I use **Clean Architecture** to keep code organized, maintainable, and easy to extend.
+I build backend applications and APIs with **C#** and **ASP.NET Core**, using **Clean Architecture** to keep projects organized and maintainable. I work with **SQL** and **PostgreSQL**, and use **HTML**, **CSS**, and **JavaScript** when developing web interfaces.
 
-My work also involves **SQL** and **PostgreSQL**, and I use **HTML**, **CSS**, and **JavaScript** when working on the frontend. Alongside development, I have a background in graphic design.
+Alongside backend development, I work as a **Motion Designer at Software Village**, creating motion graphics and editing video with **Adobe After Effects** and **Adobe Premiere Pro**.
 
 ---
 
 ### About Me
 
-- I develop server-side applications and APIs using C# and ASP.NET Core.
-- I structure my projects with Clean Architecture and clear separation of responsibilities.
-- I work with relational databases, write SQL queries, and use PostgreSQL.
+- I develop backend applications and APIs with C# and ASP.NET Core.
+- I structure my projects using Clean Architecture and clear separation of responsibilities.
+- I work with relational databases, SQL queries, and PostgreSQL.
 - I use HTML, CSS, and JavaScript to build and integrate web interfaces.
+- I create motion graphics and video content at **Software Village**.
 - I contribute to the **Bizera NVC project** as a graphic designer.
 
 ---
@@ -37,13 +38,19 @@ My work also involves **SQL** and **PostgreSQL**, and I use **HTML**, **CSS**, a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-**Design**
+**Motion Design & Video Editing**
 
 <p>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="Adobe After Effects" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro" />
+</p>
+
+**Graphic Design**
+
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Adobe Illustrator" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" alt="After Effects" />
 </p>
 
 ---
